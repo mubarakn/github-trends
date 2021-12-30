@@ -29,7 +29,7 @@ const UserItem = ({ sponsor }: UserItemProps) => {
                 {/* This container is for tablet devices */}
                 <div className="md:w-4/12 mt-2 md:mt-0 text-xs">
                     <span><FlameIcon className='text-orange-600' /> POPULAR REPO</span>
-                    <h1 className='text-md'>
+                    <h1 className='text-md my-1'>
                         <RepoIcon className='' />
                         <a href="https://google.com" className='text-accent-color font-semibold text-base'> libtorrent</a>
                     </h1>
