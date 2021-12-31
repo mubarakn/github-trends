@@ -9,7 +9,7 @@ The crawler should be run in browser console because if curl is used it will thr
 
 ### `npm run server`
 This command uses the json-server library to serve db.json file in REST Api. You should execute this command first in a terminal before running react. The server will run on port 3001 (you can modify this in package.json file.)
-Open [http://localhost:3001/developers](http://localhost:3001/developers) to view all developers.
+Open [http://localhost:3001/developers](http://localhost:3001/developers) to view all developers.\
 Open [http://localhost:3001/repositories](http://localhost:3001/repositories) to view all repositories.
 
 ### `npm start`
