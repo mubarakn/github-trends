@@ -23,4 +23,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 :white_check_mark: The implementation must be as close as possible to the provided designs.\
 :white_check_mark: Feel free to use any css library if needed.\
 :white_check_mark: Using typescript is a plus.\
-:white_check_mark: Using react-query is a plus.\
+:white_check_mark: Using react-query is a plus.
