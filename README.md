@@ -1,4 +1,4 @@
-# Read this before starting this project
+# Read this before running this assignment
 
 The links which you provided for the assignment doesn't work so, I had to crawl the trending page to fetch the repositories and developers based on date range.
 The crawler code can be found [here](https://gist.github.com/mubarakn/2a7a0ed245dd86deac809603512455f6).
