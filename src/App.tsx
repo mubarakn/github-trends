@@ -1,17 +1,18 @@
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { Route, Switch } from 'react-router-dom'
 import RepoPage from './RepoPage';
 import DevelopersPage from './DevelopersPage';
 
 function App() {
+    
     return (
-        <Router>
+        <Switch>
             <Route path="/" exact>
                 <RepoPage />
             </Route>
             <Route path="/developers">
                 <DevelopersPage />
             </Route>
-        </Router>
+        </Switch>
     )
 }
 

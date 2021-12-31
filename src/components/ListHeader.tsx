@@ -1,14 +1,9 @@
 import LinkButton from './LinkButton'
-import LinkButtonLocation from '../enums/LinkButtonLocation'
+import { ListHeaderProps, LinkButtonLocation } from '../app.d'
+import DateRange from './DateRange'
 
-interface ListHeaderProps {
-    showSpokenLanguage?: boolean;
-    spokenLanguage?: string;
-    language?: string;
-    dateRange?: string
-}
-
-const ListHeader = ({ showSpokenLanguage, spokenLanguage, language, dateRange }: ListHeaderProps) => {
+const ListHeader = ({ showSpokenLanguage, spokenLanguage, language, dateRange, onDateRangeSelect }: ListHeaderProps) => {
+    
 
     return (
         <div className="md:flex items-center p-4 bg-header-bg-color text-sm">
@@ -26,8 +21,8 @@ const ListHeader = ({ showSpokenLanguage, spokenLanguage, language, dateRange }:
                 <div className="mb-4 md:mb-0 relative dropdown hover:text-title-color mr-10">
                     <span className="cursor-pointer">Language: {language || 'Any'}</span>
                 </div>
-                <div className="mb-4 md:mb-0 relative dropdown hover:text-title-color mr-4">
-                    <span className="cursor-pointer">Date Range: {dateRange || 'Today'}</span>
+                <div className="mb-4 md:mb-0 relative mr-4">
+                    <DateRange dateRange={dateRange} onDateRangeSelect={onDateRangeSelect} />
                 </div>
             </div>
         </div>

@@ -1,0 +1,2879 @@
+{
+    "developers": [
+        {
+            "slNo": "1",
+            "profileLink": "https://github.com/frenck",
+            "imgSrc": "https://avatars.githubusercontent.com/u/195327?s=96&v=4",
+            "fullName": "Franck Nijhof",
+            "username": "frenck",
+            "repoUrl": "https://github.com/frenck/awesome-home-assistant",
+            "repoName": " awesome-home-assistant",
+            "repoDescription": "A curated list of amazingly awesome Home Assistant resources.",
+            "sponsorLink": "https://github.com/sponsors/frenck",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "2",
+            "profileLink": "https://github.com/sergiodxa",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1312018?s=96&v=4",
+            "fullName": "Sergio Xalambrí",
+            "username": "sergiodxa",
+            "repoUrl": "https://github.com/sergiodxa/remix-auth",
+            "repoName": " remix-auth",
+            "repoDescription": "Simple Authentication for Remix",
+            "sponsorLink": "https://github.com/sponsors/sergiodxa",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "3",
+            "profileLink": "https://github.com/shuding",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3676859?s=96&v=4",
+            "fullName": "Shu Ding",
+            "username": "shuding",
+            "repoUrl": "https://github.com/shuding/cobe",
+            "repoName": " cobe",
+            "repoDescription": "5kB WebGL globe lib.",
+            "sponsorLink": "https://github.com/sponsors/shuding",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "4",
+            "profileLink": "https://github.com/arvidn",
+            "imgSrc": "https://avatars.githubusercontent.com/u/661450?s=96&v=4",
+            "fullName": "Arvid Norberg",
+            "username": "arvidn",
+            "repoUrl": "https://github.com/arvidn/libtorrent",
+            "repoName": " libtorrent",
+            "repoDescription": "an efficient feature complete C++ bittorrent implementation",
+            "sponsorLink": "https://github.com/sponsors/arvidn",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "5",
+            "profileLink": "https://github.com/jquense",
+            "imgSrc": "https://avatars.githubusercontent.com/u/339286?s=96&v=4",
+            "fullName": "Jason Quense",
+            "username": "jquense",
+            "repoUrl": "https://github.com/jquense/yup",
+            "repoName": " yup",
+            "repoDescription": "Dead simple Object schema validation",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "6",
+            "profileLink": "https://github.com/balloob",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1444314?s=96&v=4",
+            "fullName": "Paulus Schoutsen",
+            "username": "balloob",
+            "repoUrl": "",
+            "repoName": "",
+            "repoDescription": "",
+            "sponsorLink": "https://github.com/sponsors/balloob",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "7",
+            "profileLink": "https://github.com/binwiederhier",
+            "imgSrc": "https://avatars.githubusercontent.com/u/664597?s=96&v=4",
+            "fullName": "Philipp C. Heckel",
+            "username": "binwiederhier",
+            "repoUrl": "https://github.com/binwiederhier/ntfy",
+            "repoName": " ntfy",
+            "repoDescription": "Send push notifications to your phone or desktop using PUT/POST",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "8",
+            "profileLink": "https://github.com/derailed",
+            "imgSrc": "https://avatars.githubusercontent.com/u/4060?s=96&v=4",
+            "fullName": "Fernand Galiana",
+            "username": "derailed",
+            "repoUrl": "https://github.com/derailed/k9s",
+            "repoName": " k9s",
+            "repoDescription": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+            "sponsorLink": "https://github.com/sponsors/derailed",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "9",
+            "profileLink": "https://github.com/nlohmann",
+            "imgSrc": "https://avatars.githubusercontent.com/u/159488?s=96&v=4",
+            "fullName": "Niels Lohmann",
+            "username": "nlohmann",
+            "repoUrl": "https://github.com/nlohmann/json",
+            "repoName": " json",
+            "repoDescription": "JSON for Modern C++",
+            "sponsorLink": "https://github.com/sponsors/nlohmann",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "10",
+            "profileLink": "https://github.com/maxence-charriere",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2692731?s=96&v=4",
+            "fullName": "Maxence Charriere",
+            "username": "maxence-charriere",
+            "repoUrl": "https://github.com/maxence-charriere/go-app",
+            "repoName": " go-app",
+            "repoDescription": "A package to build progressive web apps with Go programming language and WebAssembly.",
+            "sponsorLink": "https://github.com/sponsors/maxence-charriere",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "11",
+            "profileLink": "https://github.com/dunglas",
+            "imgSrc": "https://avatars.githubusercontent.com/u/57224?s=96&v=4",
+            "fullName": "Kévin Dunglas",
+            "username": "dunglas",
+            "repoUrl": "https://github.com/dunglas/symfony-docker",
+            "repoName": " symfony-docker",
+            "repoDescription": "A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.",
+            "sponsorLink": "https://github.com/sponsors/dunglas",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "12",
+            "profileLink": "https://github.com/sundowndev",
+            "imgSrc": "https://avatars.githubusercontent.com/u/16480203?s=96&v=4",
+            "fullName": "Raphaël",
+            "username": "sundowndev",
+            "repoUrl": "https://github.com/sundowndev/phoneinfoga",
+            "repoName": " phoneinfoga",
+            "repoDescription": "Information gathering & OSINT framework for phone numbers",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "13",
+            "profileLink": "https://github.com/hynek",
+            "imgSrc": "https://avatars.githubusercontent.com/u/41240?s=96&v=4",
+            "fullName": "Hynek Schlawack",
+            "username": "hynek",
+            "repoUrl": "https://github.com/hynek/structlog",
+            "repoName": " structlog",
+            "repoDescription": "Structured Logging for Python",
+            "sponsorLink": "https://github.com/sponsors/hynek",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "14",
+            "profileLink": "https://github.com/emilk",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+            "fullName": "Emil Ernerfeldt",
+            "username": "emilk",
+            "repoUrl": "https://github.com/emilk/egui",
+            "repoName": " egui",
+            "repoDescription": "egui: an easy-to-use immediate mode GUI in pure Rust",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "15",
+            "profileLink": "https://github.com/bradfitz",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+            "fullName": "Brad Fitzpatrick",
+            "username": "bradfitz",
+            "repoUrl": "https://github.com/bradfitz/snake",
+            "repoName": " snake",
+            "repoDescription": "a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "16",
+            "profileLink": "https://github.com/robjtede",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3316789?s=96&v=4",
+            "fullName": "Rob Ede",
+            "username": "robjtede",
+            "repoUrl": "",
+            "repoName": "",
+            "repoDescription": "",
+            "sponsorLink": "https://github.com/sponsors/robjtede",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "17",
+            "profileLink": "https://github.com/benesch",
+            "imgSrc": "https://avatars.githubusercontent.com/u/882976?s=96&v=4",
+            "fullName": "Nikhil Benesch",
+            "username": "benesch",
+            "repoUrl": "",
+            "repoName": "",
+            "repoDescription": "",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "18",
+            "profileLink": "https://github.com/antonkomarev",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1849174?s=96&v=4",
+            "fullName": "Anton Komarev",
+            "username": "antonkomarev",
+            "repoUrl": "https://github.com/antonkomarev/github-profile-views-counter",
+            "repoName": " github-profile-views-counter",
+            "repoDescription": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "19",
+            "profileLink": "https://github.com/mglaman",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3698644?s=96&v=4",
+            "fullName": "Matt Glaman",
+            "username": "mglaman",
+            "repoUrl": "https://github.com/mglaman/drupal-typed-data-by-example",
+            "repoName": " drupal-typed-data-by-example",
+            "repoDescription": "Drupal's Typed Data API by example",
+            "sponsorLink": "https://github.com/sponsors/mglaman",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "20",
+            "profileLink": "https://github.com/drwpow",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1369770?s=96&v=4",
+            "fullName": "Drew Powers",
+            "username": "drwpow",
+            "repoUrl": "https://github.com/drwpow/openapi-typescript",
+            "repoName": " openapi-typescript",
+            "repoDescription": "Generate TypeScript types from Swagger OpenAPI specs",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "21",
+            "profileLink": "https://github.com/bcoe",
+            "imgSrc": "https://avatars.githubusercontent.com/u/194609?s=96&v=4",
+            "fullName": "Benjamin E. Coe",
+            "username": "bcoe",
+            "repoUrl": "https://github.com/bcoe/c8",
+            "repoName": " c8",
+            "repoDescription": "output coverage reports using Node.js' built in coverage",
+            "sponsorLink": "",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "22",
+            "profileLink": "https://github.com/ErikEJ",
+            "imgSrc": "https://avatars.githubusercontent.com/u/4169187?s=96&v=4",
+            "fullName": "Erik Ejlskov Jensen",
+            "username": "ErikEJ",
+            "repoUrl": "https://github.com/ErikEJ/EFCorePowerTools",
+            "repoName": " EFCorePowerTools",
+            "repoDescription": "Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core",
+            "sponsorLink": "https://github.com/sponsors/ErikEJ",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "23",
+            "profileLink": "https://github.com/kpcyrd",
+            "imgSrc": "https://avatars.githubusercontent.com/u/7763184?s=96&v=4",
+            "fullName": "kpcyrd",
+            "username": "",
+            "repoUrl": "https://github.com/kpcyrd/sn0int",
+            "repoName": " sn0int",
+            "repoDescription": "Semi-automatic OSINT framework and package manager",
+            "sponsorLink": "https://github.com/sponsors/kpcyrd",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "24",
+            "profileLink": "https://github.com/qarmin",
+            "imgSrc": "https://avatars.githubusercontent.com/u/41945903?s=96&v=4",
+            "fullName": "Rafał Mikrut",
+            "username": "qarmin",
+            "repoUrl": "https://github.com/qarmin/czkawka",
+            "repoName": " czkawka",
+            "repoDescription": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "sponsorLink": "https://github.com/sponsors/qarmin",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "25",
+            "profileLink": "https://github.com/stof",
+            "imgSrc": "https://avatars.githubusercontent.com/u/439401?s=96&v=4",
+            "fullName": "Christophe Coevoet",
+            "username": "stof",
+            "repoUrl": "https://github.com/stof/FOSUserBundle",
+            "repoName": " FOSUserBundle",
+            "repoDescription": "Provides authentication features for your Symfony2 Project. Compatible with Doctrine ORM & ODM and Propel",
+            "sponsorLink": "https://github.com/sponsors/stof",
+            "dateRange": "daily"
+        },
+        {
+            "slNo": "1",
+            "profileLink": "https://github.com/yujincheng08",
+            "imgSrc": "https://avatars.githubusercontent.com/u/5022927?s=96&v=4",
+            "fullName": "LoveSy",
+            "username": "yujincheng08",
+            "repoUrl": "https://github.com/yujincheng08/BiliRoaming",
+            "repoName": " BiliRoaming",
+            "repoDescription": "哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
+            "sponsorLink": "https://github.com/sponsors/yujincheng08",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "2",
+            "profileLink": "https://github.com/ornicar",
+            "imgSrc": "https://avatars.githubusercontent.com/u/140370?s=96&v=4",
+            "fullName": "Thibault Duplessis",
+            "username": "ornicar",
+            "repoUrl": "https://github.com/ornicar/lila",
+            "repoName": " lila",
+            "repoDescription": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "3",
+            "profileLink": "https://github.com/zombieJ",
+            "imgSrc": "https://avatars.githubusercontent.com/u/5378891?s=96&v=4",
+            "fullName": "二货机器人",
+            "username": "zombieJ",
+            "repoUrl": "https://github.com/zombieJ/immutable-kv",
+            "repoName": " immutable-kv",
+            "repoDescription": "valve kv parser module",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "4",
+            "profileLink": "https://github.com/deivid-rodriguez",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2887858?s=96&v=4",
+            "fullName": "David Rodríguez",
+            "username": "deivid-rodriguez",
+            "repoUrl": "https://github.com/deivid-rodriguez/byebug",
+            "repoName": " byebug",
+            "repoDescription": "Debugging in Ruby 2",
+            "sponsorLink": "https://github.com/sponsors/deivid-rodriguez",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "5",
+            "profileLink": "https://github.com/timlrx",
+            "imgSrc": "https://avatars.githubusercontent.com/u/28362229?s=96&v=4",
+            "fullName": "Timothy",
+            "username": "timlrx",
+            "repoUrl": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+            "repoName": " tailwind-nextjs-starter-blog",
+            "repoDescription": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "sponsorLink": "https://github.com/sponsors/timlrx",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "6",
+            "profileLink": "https://github.com/antfu",
+            "imgSrc": "https://avatars.githubusercontent.com/u/11247099?s=96&v=4",
+            "fullName": "Anthony Fu",
+            "username": "antfu",
+            "repoUrl": "https://github.com/antfu/unocss",
+            "repoName": " unocss",
+            "repoDescription": "The instant on-demand atomic CSS engine.",
+            "sponsorLink": "https://github.com/sponsors/antfu",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "7",
+            "profileLink": "https://github.com/gakonst",
+            "imgSrc": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+            "fullName": "Georgios Konstantopoulos",
+            "username": "gakonst",
+            "repoUrl": "https://github.com/gakonst/foundry",
+            "repoName": " foundry",
+            "repoDescription": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "8",
+            "profileLink": "https://github.com/arvidn",
+            "imgSrc": "https://avatars.githubusercontent.com/u/661450?s=96&v=4",
+            "fullName": "Arvid Norberg",
+            "username": "arvidn",
+            "repoUrl": "https://github.com/arvidn/libtorrent",
+            "repoName": " libtorrent",
+            "repoDescription": "an efficient feature complete C++ bittorrent implementation",
+            "sponsorLink": "https://github.com/sponsors/arvidn",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "9",
+            "profileLink": "https://github.com/jose-elias-alvarez",
+            "imgSrc": "https://avatars.githubusercontent.com/u/54108223?s=96&v=4",
+            "fullName": "Jose Alvarez",
+            "username": "jose-elias-alvarez",
+            "repoUrl": "https://github.com/jose-elias-alvarez/null-ls.nvim",
+            "repoName": " null-ls.nvim",
+            "repoDescription": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "10",
+            "profileLink": "https://github.com/qarmin",
+            "imgSrc": "https://avatars.githubusercontent.com/u/41945903?s=96&v=4",
+            "fullName": "Rafał Mikrut",
+            "username": "qarmin",
+            "repoUrl": "https://github.com/qarmin/czkawka",
+            "repoName": " czkawka",
+            "repoDescription": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "sponsorLink": "https://github.com/sponsors/qarmin",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "11",
+            "profileLink": "https://github.com/alex",
+            "imgSrc": "https://avatars.githubusercontent.com/u/772?s=96&v=4",
+            "fullName": "Alex Gaynor",
+            "username": "alex",
+            "repoUrl": "https://github.com/alex/what-happens-when",
+            "repoName": " what-happens-when",
+            "repoDescription": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "12",
+            "profileLink": "https://github.com/rootzoll",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2472225?s=96&v=4",
+            "fullName": "/rootzoll",
+            "username": "rootzoll",
+            "repoUrl": "https://github.com/rootzoll/raspiblitz",
+            "repoName": " raspiblitz",
+            "repoDescription": "Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "13",
+            "profileLink": "https://github.com/nolanlawson",
+            "imgSrc": "https://avatars.githubusercontent.com/u/283842?s=96&v=4",
+            "fullName": "Nolan Lawson",
+            "username": "nolanlawson",
+            "repoUrl": "https://github.com/nolanlawson/fuite",
+            "repoName": " fuite",
+            "repoDescription": "A tool for finding memory leaks in web apps",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "14",
+            "profileLink": "https://github.com/dtolnay",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1940490?s=96&v=4",
+            "fullName": "David Tolnay",
+            "username": "dtolnay",
+            "repoUrl": "https://github.com/dtolnay/efg",
+            "repoName": " efg",
+            "repoDescription": "Conditional compilation using boolean expression syntax, rather than any(), all(), not()",
+            "sponsorLink": "https://github.com/sponsors/dtolnay",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "15",
+            "profileLink": "https://github.com/PySimpleGUI",
+            "imgSrc": "https://avatars.githubusercontent.com/u/46163555?s=96&v=4",
+            "fullName": "PySimpleGUI",
+            "username": "PySimpleGUI",
+            "repoUrl": "https://github.com/PySimpleGUI/PySimpleGUI",
+            "repoName": " PySimpleGUI",
+            "repoDescription": "Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,…",
+            "sponsorLink": "https://github.com/sponsors/PySimpleGUI",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "16",
+            "profileLink": "https://github.com/hajimehoshi",
+            "imgSrc": "https://avatars.githubusercontent.com/u/16950?s=96&v=4",
+            "fullName": "Hajime Hoshi",
+            "username": "hajimehoshi",
+            "repoUrl": "https://github.com/hajimehoshi/ebiten",
+            "repoName": " ebiten",
+            "repoDescription": "A dead simple 2D game library for Go",
+            "sponsorLink": "https://github.com/sponsors/hajimehoshi",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "17",
+            "profileLink": "https://github.com/twpayne",
+            "imgSrc": "https://avatars.githubusercontent.com/u/6942?s=96&v=4",
+            "fullName": "Tom Payne",
+            "username": "twpayne",
+            "repoUrl": "https://github.com/twpayne/chezmoi",
+            "repoName": " chezmoi",
+            "repoDescription": "Manage your dotfiles across multiple diverse machines, securely.",
+            "sponsorLink": "",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "18",
+            "profileLink": "https://github.com/Byron",
+            "imgSrc": "https://avatars.githubusercontent.com/u/63622?s=96&v=4",
+            "fullName": "Sebastian Thiel",
+            "username": "Byron",
+            "repoUrl": "https://github.com/Byron/gitoxide",
+            "repoName": " gitoxide",
+            "repoDescription": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+            "sponsorLink": "https://github.com/sponsors/Byron",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "19",
+            "profileLink": "https://github.com/tiangolo",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1326112?s=96&v=4",
+            "fullName": "Sebastián Ramírez",
+            "username": "tiangolo",
+            "repoUrl": "https://github.com/tiangolo/fastapi",
+            "repoName": " fastapi",
+            "repoDescription": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "sponsorLink": "https://github.com/sponsors/tiangolo",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "21",
+            "profileLink": "https://github.com/shuding",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3676859?s=96&v=4",
+            "fullName": "Shu Ding",
+            "username": "shuding",
+            "repoUrl": "https://github.com/shuding/cobe",
+            "repoName": " cobe",
+            "repoDescription": "5kB WebGL globe lib.",
+            "sponsorLink": "https://github.com/sponsors/shuding",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "22",
+            "profileLink": "https://github.com/avelino",
+            "imgSrc": "https://avatars.githubusercontent.com/u/31996?s=96&v=4",
+            "fullName": "Avelino",
+            "username": "avelino",
+            "repoUrl": "https://github.com/avelino/awesome-go",
+            "repoName": " awesome-go",
+            "repoDescription": "A curated list of awesome Go frameworks, libraries and software",
+            "sponsorLink": "https://github.com/sponsors/avelino",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "23",
+            "profileLink": "https://github.com/fatedier",
+            "imgSrc": "https://avatars.githubusercontent.com/u/7346661?s=96&v=4",
+            "fullName": "fatedier",
+            "username": "",
+            "repoUrl": "https://github.com/fatedier/frp",
+            "repoName": " frp",
+            "repoDescription": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+            "sponsorLink": "https://github.com/sponsors/fatedier",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "24",
+            "profileLink": "https://github.com/unixorn",
+            "imgSrc": "https://avatars.githubusercontent.com/u/23920?s=96&v=4",
+            "fullName": "Joe Block",
+            "username": "unixorn",
+            "repoUrl": "https://github.com/unixorn/awesome-zsh-plugins",
+            "repoName": " awesome-zsh-plugins",
+            "repoDescription": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+            "sponsorLink": "https://github.com/sponsors/unixorn",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "25",
+            "profileLink": "https://github.com/maxence-charriere",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2692731?s=96&v=4",
+            "fullName": "Maxence Charriere",
+            "username": "maxence-charriere",
+            "repoUrl": "https://github.com/maxence-charriere/go-app",
+            "repoName": " go-app",
+            "repoDescription": "A package to build progressive web apps with Go programming language and WebAssembly.",
+            "sponsorLink": "https://github.com/sponsors/maxence-charriere",
+            "dateRange": "weekly"
+        },
+        {
+            "slNo": "1",
+            "profileLink": "https://github.com/sethvargo",
+            "imgSrc": "https://avatars.githubusercontent.com/u/408570?s=96&v=4",
+            "fullName": "Seth Vargo",
+            "username": "sethvargo",
+            "repoUrl": "https://github.com/sethvargo/go-password",
+            "repoName": " go-password",
+            "repoDescription": "A Golang library for generating high-entropy random passwords similar to 1Password or LastPass.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "2",
+            "profileLink": "https://github.com/itzg",
+            "imgSrc": "https://avatars.githubusercontent.com/u/988985?s=96&v=4",
+            "fullName": "Geoff Bourne",
+            "username": "itzg",
+            "repoUrl": "https://github.com/itzg/docker-minecraft-server",
+            "repoName": " docker-minecraft-server",
+            "repoDescription": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "3",
+            "profileLink": "https://github.com/nschloe",
+            "imgSrc": "https://avatars.githubusercontent.com/u/181628?s=96&v=4",
+            "fullName": "Nico Schlömer",
+            "username": "nschloe",
+            "repoUrl": "https://github.com/nschloe/tiptop",
+            "repoName": " tiptop",
+            "repoDescription": "Command-line system monitoring",
+            "sponsorLink": "https://github.com/sponsors/nschloe",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "4",
+            "profileLink": "https://github.com/gakonst",
+            "imgSrc": "https://avatars.githubusercontent.com/u/17802178?s=96&v=4",
+            "fullName": "Georgios Konstantopoulos",
+            "username": "gakonst",
+            "repoUrl": "https://github.com/gakonst/foundry",
+            "repoName": " foundry",
+            "repoDescription": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "5",
+            "profileLink": "https://github.com/jaredpalmer",
+            "imgSrc": "https://avatars.githubusercontent.com/u/4060187?s=96&v=4",
+            "fullName": "Jared Palmer",
+            "username": "jaredpalmer",
+            "repoUrl": "https://github.com/jaredpalmer/formik",
+            "repoName": " formik",
+            "repoDescription": "Build forms in React, without the tears 😭",
+            "sponsorLink": "https://github.com/sponsors/jaredpalmer",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "6",
+            "profileLink": "https://github.com/antfu",
+            "imgSrc": "https://avatars.githubusercontent.com/u/11247099?s=96&v=4",
+            "fullName": "Anthony Fu",
+            "username": "antfu",
+            "repoUrl": "https://github.com/antfu/unocss",
+            "repoName": " unocss",
+            "repoDescription": "The instant on-demand atomic CSS engine.",
+            "sponsorLink": "https://github.com/sponsors/antfu",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "7",
+            "profileLink": "https://github.com/deivid-rodriguez",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2887858?s=96&v=4",
+            "fullName": "David Rodríguez",
+            "username": "deivid-rodriguez",
+            "repoUrl": "https://github.com/deivid-rodriguez/byebug",
+            "repoName": " byebug",
+            "repoDescription": "Debugging in Ruby 2",
+            "sponsorLink": "https://github.com/sponsors/deivid-rodriguez",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "8",
+            "profileLink": "https://github.com/JanDeDobbeleer",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2492783?s=96&v=4",
+            "fullName": "Jan De Dobbeleer",
+            "username": "JanDeDobbeleer",
+            "repoUrl": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "repoName": " oh-my-posh",
+            "repoDescription": "A prompt theme engine for any shell.",
+            "sponsorLink": "https://github.com/sponsors/JanDeDobbeleer",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "9",
+            "profileLink": "https://github.com/jonataslaw",
+            "imgSrc": "https://avatars.githubusercontent.com/u/35742643?s=96&v=4",
+            "fullName": "Jonny Borges",
+            "username": "jonataslaw",
+            "repoUrl": "https://github.com/jonataslaw/getx",
+            "repoName": " getx",
+            "repoDescription": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "10",
+            "profileLink": "https://github.com/Neo23x0",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2851492?s=96&v=4",
+            "fullName": "Florian Roth",
+            "username": "Neo23x0",
+            "repoUrl": "https://github.com/Neo23x0/log4shell-detector",
+            "repoName": " log4shell-detector",
+            "repoDescription": "Detector for Log4Shell exploitation attempts",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "11",
+            "profileLink": "https://github.com/PySimpleGUI",
+            "imgSrc": "https://avatars.githubusercontent.com/u/46163555?s=96&v=4",
+            "fullName": "PySimpleGUI",
+            "username": "PySimpleGUI",
+            "repoUrl": "https://github.com/PySimpleGUI/PySimpleGUI",
+            "repoName": " PySimpleGUI",
+            "repoDescription": "Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,…",
+            "sponsorLink": "https://github.com/sponsors/PySimpleGUI",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "12",
+            "profileLink": "https://github.com/derailed",
+            "imgSrc": "https://avatars.githubusercontent.com/u/4060?s=96&v=4",
+            "fullName": "Fernand Galiana",
+            "username": "derailed",
+            "repoUrl": "https://github.com/derailed/k9s",
+            "repoName": " k9s",
+            "repoDescription": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+            "sponsorLink": "https://github.com/sponsors/derailed",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "13",
+            "profileLink": "https://github.com/argyleink",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1134620?s=96&v=4",
+            "fullName": "Adam Argyle",
+            "username": "argyleink",
+            "repoUrl": "https://github.com/argyleink/open-props",
+            "repoName": " open-props",
+            "repoDescription": "CSS custom properties to help accelerate adaptive and consistent design.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "14",
+            "profileLink": "https://github.com/Brooooooklyn",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3468483?s=96&v=4",
+            "fullName": "LongYinan",
+            "username": "Brooooooklyn",
+            "repoUrl": "https://github.com/Brooooooklyn/swc-node",
+            "repoName": " swc-node",
+            "repoDescription": "Faster ts-node without typecheck",
+            "sponsorLink": "https://github.com/sponsors/Brooooooklyn",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "15",
+            "profileLink": "https://github.com/ChrisRackauckas",
+            "imgSrc": "https://avatars.githubusercontent.com/u/1814174?s=96&v=4",
+            "fullName": "Christopher Rackauckas",
+            "username": "ChrisRackauckas",
+            "repoUrl": "https://github.com/ChrisRackauckas/EllipsisNotation.jl",
+            "repoName": " EllipsisNotation.jl",
+            "repoDescription": "Implements the notation `..` for indexing arrays.",
+            "sponsorLink": "https://github.com/sponsors/ChrisRackauckas",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "16",
+            "profileLink": "https://github.com/spydon",
+            "imgSrc": "https://avatars.githubusercontent.com/u/744771?s=96&v=4",
+            "fullName": "Lukas Klingsbo",
+            "username": "spydon",
+            "repoUrl": "https://github.com/spydon/flutter_evil_vikings",
+            "repoName": " flutter_evil_vikings",
+            "repoDescription": "A showcase of Forge2D + Flame for the Flutter Vikings conference",
+            "sponsorLink": "https://github.com/sponsors/spydon",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "17",
+            "profileLink": "https://github.com/skydoves",
+            "imgSrc": "https://avatars.githubusercontent.com/u/24237865?s=96&v=4",
+            "fullName": "Jaewoong Eum",
+            "username": "skydoves",
+            "repoUrl": "https://github.com/skydoves/android-developer-roadmap",
+            "repoName": " android-developer-roadmap",
+            "repoDescription": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
+            "sponsorLink": "https://github.com/sponsors/skydoves",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "18",
+            "profileLink": "https://github.com/Kludex",
+            "imgSrc": "https://avatars.githubusercontent.com/u/7353520?s=96&v=4",
+            "fullName": "Marcelo Trylesinski",
+            "username": "Kludex",
+            "repoUrl": "https://github.com/Kludex/awesome-fastapi-projects",
+            "repoName": " awesome-fastapi-projects",
+            "repoDescription": "List of FastAPI projects! 😎 🚀",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "19",
+            "profileLink": "https://github.com/adamchainz",
+            "imgSrc": "https://avatars.githubusercontent.com/u/857609?s=96&v=4",
+            "fullName": "Adam Johnson",
+            "username": "adamchainz",
+            "repoUrl": "https://github.com/adamchainz/django-browser-reload",
+            "repoName": " django-browser-reload",
+            "repoDescription": "Automatically reload your browser in development.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "20",
+            "profileLink": "https://github.com/avelino",
+            "imgSrc": "https://avatars.githubusercontent.com/u/31996?s=96&v=4",
+            "fullName": "Avelino",
+            "username": "avelino",
+            "repoUrl": "https://github.com/avelino/awesome-go",
+            "repoName": " awesome-go",
+            "repoDescription": "A curated list of awesome Go frameworks, libraries and software",
+            "sponsorLink": "https://github.com/sponsors/avelino",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "21",
+            "profileLink": "https://github.com/JelleZijlstra",
+            "imgSrc": "https://avatars.githubusercontent.com/u/906600?s=96&v=4",
+            "fullName": "Jelle Zijlstra",
+            "username": "JelleZijlstra",
+            "repoUrl": "",
+            "repoName": "",
+            "repoDescription": "",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "22",
+            "profileLink": "https://github.com/quisquous",
+            "imgSrc": "https://avatars.githubusercontent.com/u/462317?s=96&v=4",
+            "fullName": "Adrienne Walker",
+            "username": "quisquous",
+            "repoUrl": "https://github.com/quisquous/cactbot",
+            "repoName": " cactbot",
+            "repoDescription": "FFXIV JavaScript Raiding Overlay",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "23",
+            "profileLink": "https://github.com/diegohaz",
+            "imgSrc": "https://avatars.githubusercontent.com/u/3068563?s=96&v=4",
+            "fullName": "Haz",
+            "username": "diegohaz",
+            "repoUrl": "https://github.com/diegohaz/constate",
+            "repoName": " constate",
+            "repoDescription": "React Context + State",
+            "sponsorLink": "https://github.com/sponsors/diegohaz",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "24",
+            "profileLink": "https://github.com/unknwon",
+            "imgSrc": "https://avatars.githubusercontent.com/u/2946214?s=96&v=4",
+            "fullName": "Joe Chen",
+            "username": "unknwon",
+            "repoUrl": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+            "repoName": " the-way-to-go_ZH_CN",
+            "repoDescription": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        },
+        {
+            "slNo": "25",
+            "profileLink": "https://github.com/jose-elias-alvarez",
+            "imgSrc": "https://avatars.githubusercontent.com/u/54108223?s=96&v=4",
+            "fullName": "Jose Alvarez",
+            "username": "jose-elias-alvarez",
+            "repoUrl": "https://github.com/jose-elias-alvarez/null-ls.nvim",
+            "repoName": " null-ls.nvim",
+            "repoDescription": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+            "sponsorLink": "",
+            "dateRange": "monthly"
+        }
+    ],
+
+    "repositories": [
+        {
+            "repoLink": "https://github.com/donnemartin/system-design-primer",
+            "username": "donnemartin",
+            "repoName": "system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "language": "Python",
+            "starCount": "156,459",
+            "forkCount": "28,886",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
+                    "profileUrl": "https://github.com/donnemartin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/171818?s=40&v=4",
+                    "profileUrl": "https://github.com/satob"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7440735?s=40&v=4",
+                    "profileUrl": "https://github.com/fluency03"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8622362?s=40&v=4",
+                    "profileUrl": "https://github.com/sqrthree"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6084440?s=40&v=4",
+                    "profileUrl": "https://github.com/antongulikov"
+                }
+            ],
+            "todayStarCount": "508",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/sindresorhus/awesome",
+            "username": "sindresorhus",
+            "repoName": "awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "language": "",
+            "starCount": "22,422",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/fanux/sealos",
+            "username": "fanux",
+            "repoName": "sealos",
+            "description": "一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳",
+            "language": "Go",
+            "starCount": "6,884",
+            "forkCount": "1,145",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8912557?s=40&v=4",
+                    "profileUrl": "https://github.com/fanux"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4150905?s=40&v=4",
+                    "profileUrl": "https://github.com/cuisongliu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/38313565?s=40&v=4",
+                    "profileUrl": "https://github.com/oldthreefeng"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/19948780?s=40&v=4",
+                    "profileUrl": "https://github.com/PatHoo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/18641678?s=40&v=4",
+                    "profileUrl": "https://github.com/zhangguanzhang"
+                }
+            ],
+            "todayStarCount": "236",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/hoppscotch/hoppscotch",
+            "username": "hoppscotch",
+            "repoName": "hoppscotch",
+            "description": "🛸 Open source API development ecosystem https://hoppscotch.io",
+            "language": "Vue",
+            "starCount": "34,871",
+            "forkCount": "2,455",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10395817?s=40&v=4",
+                    "profileUrl": "https://github.com/liyasthomas"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9131943?s=40&v=4",
+                    "profileUrl": "https://github.com/AndrewBastin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot-preview"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/25279263?s=40&v=4",
+                    "profileUrl": "https://github.com/jamesgeorge007"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/20114263?s=40&v=4",
+                    "profileUrl": "https://github.com/dmitryyankowski"
+                }
+            ],
+            "todayStarCount": "48",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/trekhleb/javascript-algorithms",
+            "username": "trekhleb",
+            "repoName": "javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "language": "JavaScript",
+            "starCount": "130,984",
+            "forkCount": "21,473",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3000285?s=40&v=4",
+                    "profileUrl": "https://github.com/trekhleb"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/29200109?s=40&v=4",
+                    "profileUrl": "https://github.com/m-maksyutin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13618860?s=40&v=4",
+                    "profileUrl": "https://github.com/appleJax"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2787876?s=40&v=4",
+                    "profileUrl": "https://github.com/albertstill"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/29892368?s=40&v=4",
+                    "profileUrl": "https://github.com/moshejs"
+                }
+            ],
+            "todayStarCount": "406",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/apache/maven-mvnd",
+            "username": "apache",
+            "repoName": "maven-mvnd",
+            "description": "Apache Maven Daemon",
+            "language": "Java",
+            "starCount": "1,094",
+            "forkCount": "77",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/84022?s=40&v=4",
+                    "profileUrl": "https://github.com/gnodet"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1826249?s=40&v=4",
+                    "profileUrl": "https://github.com/ppalaga"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/github-actions"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5533593?s=40&v=4",
+                    "profileUrl": "https://github.com/lanmaoxinqing"
+                }
+            ],
+            "todayStarCount": "57",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/adrianhajdin/project_web3.0",
+            "username": "adrianhajdin",
+            "repoName": "project_web3.0",
+            "description": "Web 3.0 React Solidity Blockchain Application",
+            "language": "JavaScript",
+            "starCount": "213",
+            "forkCount": "44",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/24898559?s=40&v=4",
+                    "profileUrl": "https://github.com/adrianhajdin"
+                }
+            ],
+            "todayStarCount": "70",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/teivah/100-go-mistakes",
+            "username": "teivah",
+            "repoName": "100-go-mistakes",
+            "description": "Source code of the 100 Go Mistakes book",
+            "language": "Go",
+            "starCount": "346",
+            "forkCount": "25",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/934784?s=40&v=4",
+                    "profileUrl": "https://github.com/teivah"
+                }
+            ],
+            "todayStarCount": "114",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/google/python-fire",
+            "username": "google",
+            "repoName": "python-fire",
+            "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+            "language": "Python",
+            "starCount": "21,106",
+            "forkCount": "1,243",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/892765?s=40&v=4",
+                    "profileUrl": "https://github.com/dbieber"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1243000?s=40&v=4",
+                    "profileUrl": "https://github.com/joejoevictor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/28993550?s=40&v=4",
+                    "profileUrl": "https://github.com/jacobaustin123"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1188367?s=40&v=4",
+                    "profileUrl": "https://github.com/saurabhkpatel"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1598379?s=40&v=4",
+                    "profileUrl": "https://github.com/jtratner"
+                }
+            ],
+            "todayStarCount": "276",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "username": "DataTalksClub",
+            "repoName": "data-engineering-zoomcamp",
+            "description": "Code for Data Engineer Zoomcamp course",
+            "language": "",
+            "starCount": "82",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/coder2gwy/coder2gwy",
+            "username": "coder2gwy",
+            "repoName": "coder2gwy",
+            "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+            "language": "",
+            "starCount": "2,961",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/GitHubDaily/GitHubDaily",
+            "username": "GitHubDaily",
+            "repoName": "GitHubDaily",
+            "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。",
+            "language": "",
+            "starCount": "1,311",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+            "username": "OpenZeppelin",
+            "repoName": "openzeppelin-contracts",
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "language": "JavaScript",
+            "starCount": "14,609",
+            "forkCount": "7,376",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/481465?s=40&v=4",
+                    "profileUrl": "https://github.com/frangio"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2530770?s=40&v=4",
+                    "profileUrl": "https://github.com/nventuro"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/287189?s=40&v=4",
+                    "profileUrl": "https://github.com/maraoz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2432299?s=40&v=4",
+                    "profileUrl": "https://github.com/Amxx"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot-preview"
+                }
+            ],
+            "todayStarCount": "36",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/lucidrains/vit-pytorch",
+            "username": "lucidrains",
+            "repoName": "vit-pytorch",
+            "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+            "language": "Python",
+            "starCount": "7,429",
+            "forkCount": "1,143",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/108653?s=40&v=4",
+                    "profileUrl": "https://github.com/lucidrains"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/39166683?s=40&v=4",
+                    "profileUrl": "https://github.com/zankner"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/35001605?s=40&v=4",
+                    "profileUrl": "https://github.com/developer0hye"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/26592269?s=40&v=4",
+                    "profileUrl": "https://github.com/murufeng"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/55311435?s=40&v=4",
+                    "profileUrl": "https://github.com/minhlong94"
+                }
+            ],
+            "todayStarCount": "40",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/element-plus/element-plus",
+            "username": "element-plus",
+            "repoName": "element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "language": "Vue",
+            "starCount": "13,229",
+            "forkCount": "2,471",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10731096?s=40&v=4",
+                    "profileUrl": "https://github.com/zazzaz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/15975785?s=40&v=4",
+                    "profileUrl": "https://github.com/JeremyWuuuuu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6481596?s=40&v=4",
+                    "profileUrl": "https://github.com/sxzz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/renovate"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/25154432?s=40&v=4",
+                    "profileUrl": "https://github.com/YunYouJun"
+                }
+            ],
+            "todayStarCount": "74",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+            "username": "Universidade-Livre",
+            "repoName": "ciencia-da-computacao",
+            "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
+            "language": "",
+            "starCount": "236",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/goldbergyoni/nodebestpractices",
+            "username": "goldbergyoni",
+            "repoName": "nodebestpractices",
+            "description": "✅ The Node.js best practices list (December 2021)",
+            "language": "JavaScript",
+            "starCount": "73,107",
+            "forkCount": "7,440",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
+                    "profileUrl": "https://github.com/goldbergyoni"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/23186?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/allcontributors"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17216937?s=40&v=4",
+                    "profileUrl": "https://github.com/anediaz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9084421?s=40&v=4",
+                    "profileUrl": "https://github.com/idori"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/37298463?s=40&v=4",
+                    "profileUrl": "https://github.com/YA21"
+                }
+            ],
+            "todayStarCount": "60",
+            "dateRange": "daily"
+        },
+        {
+            "repoLink": "https://github.com/cisagov/log4j-scanner",
+            "username": "cisagov",
+            "repoName": "log4j-scanner",
+            "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
+            "language": "Java",
+            "starCount": "950",
+            "forkCount": "151",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/96435696?s=40&v=4",
+                    "profileUrl": "https://github.com/genericcontributor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4105810?s=40&v=4",
+                    "profileUrl": "https://github.com/paulbadcock"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8522240?s=40&v=4",
+                    "profileUrl": "https://github.com/ColdFusionX"
+                }
+            ],
+            "todayStarCount": "588",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/EmbarkStudios/kajiya",
+            "username": "EmbarkStudios",
+            "repoName": "kajiya",
+            "description": "💡 Experimental real-time global illumination renderer 🦀",
+            "language": "Rust",
+            "starCount": "1,800",
+            "forkCount": "35",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/16522064?s=40&v=4",
+                    "profileUrl": "https://github.com/h3r2tic"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/887711?s=40&v=4",
+                    "profileUrl": "https://github.com/termhn"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/130929?s=40&v=4",
+                    "profileUrl": "https://github.com/hrydgard"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1994306?s=40&v=4",
+                    "profileUrl": "https://github.com/MaikKlein"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/26256814?s=40&v=4",
+                    "profileUrl": "https://github.com/anopara"
+                }
+            ],
+            "todayStarCount": "773",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/norvig/pytudes",
+            "username": "norvig",
+            "repoName": "pytudes",
+            "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+            "language": "Jupyter Notebook",
+            "starCount": "17,826",
+            "forkCount": "2,089",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4370220?s=40&v=4",
+                    "profileUrl": "https://github.com/norvig"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/901145?s=40&v=4",
+                    "profileUrl": "https://github.com/ghurley"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/45714392?s=40&v=4",
+                    "profileUrl": "https://github.com/alexrkopp"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/11994719?s=40&v=4",
+                    "profileUrl": "https://github.com/Naereen"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5749627?s=40&v=4",
+                    "profileUrl": "https://github.com/rmeertens"
+                }
+            ],
+            "todayStarCount": "603",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/codenotary/immudb",
+            "username": "codenotary",
+            "repoName": "immudb",
+            "description": "immudb - world’s fastest immutable database, built on a zero trust model",
+            "language": "Go",
+            "starCount": "6,383",
+            "forkCount": "215",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1755729?s=40&v=4",
+                    "profileUrl": "https://github.com/jeroiraz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3756718?s=40&v=4",
+                    "profileUrl": "https://github.com/mmeloni"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/912518?s=40&v=4",
+                    "profileUrl": "https://github.com/padurean"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3390997?s=40&v=4",
+                    "profileUrl": "https://github.com/leogr"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/11305?s=40&v=4",
+                    "profileUrl": "https://github.com/ameingast"
+                }
+            ],
+            "todayStarCount": "1325",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/Vonng/ddia",
+            "username": "Vonng",
+            "repoName": "ddia",
+            "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+            "language": "Python",
+            "starCount": "11,299",
+            "forkCount": "2,520",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8587410?s=40&v=4",
+                    "profileUrl": "https://github.com/Vonng"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1246410?s=40&v=4",
+                    "profileUrl": "https://github.com/yingang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8588251?s=40&v=4",
+                    "profileUrl": "https://github.com/fuxuemingzhu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4820492?s=40&v=4",
+                    "profileUrl": "https://github.com/afunTW"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13568607?s=40&v=4",
+                    "profileUrl": "https://github.com/jiajiadebug"
+                }
+            ],
+            "todayStarCount": "517",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/ssssssss-team/spider-flow",
+            "username": "ssssssss-team",
+            "repoName": "spider-flow",
+            "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+            "language": "Java",
+            "starCount": "4,553",
+            "forkCount": "780",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/53387007?s=40&v=4",
+                    "profileUrl": "https://github.com/javamxd"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13660311?s=40&v=4",
+                    "profileUrl": "https://github.com/lvjinze"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/23092029?s=40&v=4",
+                    "profileUrl": "https://github.com/jy03638110"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/34805743?s=40&v=4",
+                    "profileUrl": "https://github.com/zhoutianwang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/42330488?s=40&v=4",
+                    "profileUrl": "https://github.com/BillDowney"
+                }
+            ],
+            "todayStarCount": "1033",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/babysor/MockingBird",
+            "username": "babysor",
+            "repoName": "MockingBird",
+            "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+            "language": "JavaScript",
+            "starCount": "17,060",
+            "forkCount": "2,134",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7423248?s=40&v=4",
+                    "profileUrl": "https://github.com/babysor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/12797292?s=40&v=4",
+                    "profileUrl": "https://github.com/oceanarium"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17819608?s=40&v=4",
+                    "profileUrl": "https://github.com/hertz-pj"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31311826?s=40&v=4",
+                    "profileUrl": "https://github.com/Nthily"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/55180847?s=40&v=4",
+                    "profileUrl": "https://github.com/XiuChen-Liu"
+                }
+            ],
+            "todayStarCount": "1981",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/Anuken/Mindustry",
+            "username": "Anuken",
+            "repoName": "Mindustry",
+            "description": "The automation tower defense game",
+            "language": "Java",
+            "starCount": "13,606",
+            "forkCount": "1,855",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10100000?s=40&v=4",
+                    "profileUrl": "https://github.com/Anuken"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3179271?s=40&v=4",
+                    "profileUrl": "https://github.com/Quezler"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31485341?s=40&v=4",
+                    "profileUrl": "https://github.com/Prosta4okua"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13190430?s=40&v=4",
+                    "profileUrl": "https://github.com/Remint32"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/54301439?s=40&v=4",
+                    "profileUrl": "https://github.com/MEEPofFaith"
+                }
+            ],
+            "todayStarCount": "346",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/donnemartin/system-design-primer",
+            "username": "donnemartin",
+            "repoName": "system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "language": "Python",
+            "starCount": "156,583",
+            "forkCount": "28,911",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
+                    "profileUrl": "https://github.com/donnemartin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/171818?s=40&v=4",
+                    "profileUrl": "https://github.com/satob"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7440735?s=40&v=4",
+                    "profileUrl": "https://github.com/fluency03"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8622362?s=40&v=4",
+                    "profileUrl": "https://github.com/sqrthree"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6084440?s=40&v=4",
+                    "profileUrl": "https://github.com/antongulikov"
+                }
+            ],
+            "todayStarCount": "1709",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/danielyxie/bitburner",
+            "username": "danielyxie",
+            "repoName": "bitburner",
+            "description": "Bitburner Game",
+            "language": "JavaScript",
+            "starCount": "819",
+            "forkCount": "267",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/79246165?s=40&v=4",
+                    "profileUrl": "https://github.com/hydroflame"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10609073?s=40&v=4",
+                    "profileUrl": "https://github.com/danielyxie"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/137568?s=40&v=4",
+                    "profileUrl": "https://github.com/kopelli"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6662704?s=40&v=4",
+                    "profileUrl": "https://github.com/Tesseract1234567890"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1399894?s=40&v=4",
+                    "profileUrl": "https://github.com/threehams"
+                }
+            ],
+            "todayStarCount": "160",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/marktext/marktext",
+            "username": "marktext",
+            "repoName": "marktext",
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+            "language": "JavaScript",
+            "starCount": "25,397",
+            "forkCount": "1,795",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9712830?s=40&v=4",
+                    "profileUrl": "https://github.com/Jocs"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/22716132?s=40&v=4",
+                    "profileUrl": "https://github.com/fxha"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17591936?s=40&v=4",
+                    "profileUrl": "https://github.com/notAlaanor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3466287?s=40&v=4",
+                    "profileUrl": "https://github.com/mdogadailo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/56189047?s=40&v=4",
+                    "profileUrl": "https://github.com/jazzfool"
+                }
+            ],
+            "todayStarCount": "1925",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/openai/glide-text2im",
+            "username": "openai",
+            "repoName": "glide-text2im",
+            "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
+            "language": "Python",
+            "starCount": "1,206",
+            "forkCount": "103",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/406021?s=40&v=4",
+                    "profileUrl": "https://github.com/unixpickle"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5523595?s=40&v=4",
+                    "profileUrl": "https://github.com/prafullasd"
+                }
+            ],
+            "todayStarCount": "536",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/TeamNewPipe/NewPipe",
+            "username": "TeamNewPipe",
+            "repoName": "NewPipe",
+            "description": "A libre lightweight streaming front-end for Android.",
+            "language": "Java",
+            "starCount": "16,048",
+            "forkCount": "1,984",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4",
+                    "profileUrl": "https://github.com/theScrabi"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17365767?s=40&v=4",
+                    "profileUrl": "https://github.com/TobiGr"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/36421898?s=40&v=4",
+                    "profileUrl": "https://github.com/Stypox"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+                    "profileUrl": "https://github.com/weblate"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13389907?s=40&v=4",
+                    "profileUrl": "https://github.com/mauriciocolli"
+                }
+            ],
+            "todayStarCount": "260",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/trekhleb/javascript-algorithms",
+            "username": "trekhleb",
+            "repoName": "javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "language": "JavaScript",
+            "starCount": "131,085",
+            "forkCount": "21,479",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3000285?s=40&v=4",
+                    "profileUrl": "https://github.com/trekhleb"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/29200109?s=40&v=4",
+                    "profileUrl": "https://github.com/m-maksyutin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13618860?s=40&v=4",
+                    "profileUrl": "https://github.com/appleJax"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2787876?s=40&v=4",
+                    "profileUrl": "https://github.com/albertstill"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/29892368?s=40&v=4",
+                    "profileUrl": "https://github.com/moshejs"
+                }
+            ],
+            "todayStarCount": "1548",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/sxyu/svox2",
+            "username": "sxyu",
+            "repoName": "svox2",
+            "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+            "language": "Python",
+            "starCount": "916",
+            "forkCount": "104",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/16251946?s=40&v=4",
+                    "profileUrl": "https://github.com/sxyu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/16036159?s=40&v=4",
+                    "profileUrl": "https://github.com/sarafridov"
+                }
+            ],
+            "todayStarCount": "441",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/30-seconds/30-seconds-of-code",
+            "username": "30-seconds",
+            "repoName": "30-seconds-of-code",
+            "description": "Short JavaScript code snippets for all your development needs",
+            "language": "JavaScript",
+            "starCount": "90,487",
+            "forkCount": "9,565",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8281875?s=40&v=4",
+                    "profileUrl": "https://github.com/Chalarangelo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/35068020?s=40&v=4",
+                    "profileUrl": "https://github.com/30secondsofcode"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/25749162?s=40&v=4",
+                    "profileUrl": "https://github.com/fejes713"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31792358?s=40&v=4",
+                    "profileUrl": "https://github.com/kriadmin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10181183?s=40&v=4",
+                    "profileUrl": "https://github.com/kingdavidmartins"
+                }
+            ],
+            "todayStarCount": "1282",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/mpcabete/bombcrypto-bot",
+            "username": "mpcabete",
+            "repoName": "bombcrypto-bot",
+            "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+            "language": "Python",
+            "starCount": "613",
+            "forkCount": "359",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/69962256?s=40&v=4",
+                    "profileUrl": "https://github.com/mpcabete"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/19374522?s=40&v=4",
+                    "profileUrl": "https://github.com/Nucito"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/15673929?s=40&v=4",
+                    "profileUrl": "https://github.com/filipecavalc"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/38818343?s=40&v=4",
+                    "profileUrl": "https://github.com/cristhianbreunig"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/51174183?s=40&v=4",
+                    "profileUrl": "https://github.com/joaovictor7"
+                }
+            ],
+            "todayStarCount": "166",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/LunarVim/Neovim-from-scratch",
+            "username": "LunarVim",
+            "repoName": "Neovim-from-scratch",
+            "description": "A Neovim config designed from scratch to be understandable",
+            "language": "Lua",
+            "starCount": "875",
+            "forkCount": "120",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/29136904?s=40&v=4",
+                    "profileUrl": "https://github.com/ChristianChiarulli"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/68950943?s=40&v=4",
+                    "profileUrl": "https://github.com/Binxptr"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/32138262?s=40&v=4",
+                    "profileUrl": "https://github.com/lytex"
+                }
+            ],
+            "todayStarCount": "164",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/youngyangyang04/leetcode-master",
+            "username": "youngyangyang04",
+            "repoName": "leetcode-master",
+            "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+            "language": "",
+            "starCount": "5,268",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/PaddlePaddle/PaddleSpeech",
+            "username": "PaddlePaddle",
+            "repoName": "PaddleSpeech",
+            "description": "Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.",
+            "language": "Python",
+            "starCount": "2,370",
+            "forkCount": "604",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3038472?s=40&v=4",
+                    "profileUrl": "https://github.com/zh794390558"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/87408988?s=40&v=4",
+                    "profileUrl": "https://github.com/Jackwaterveg"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/24568452?s=40&v=4",
+                    "profileUrl": "https://github.com/yt605155624"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3064195?s=40&v=4",
+                    "profileUrl": "https://github.com/kuke"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7038341?s=40&v=4",
+                    "profileUrl": "https://github.com/xinghai-sun"
+                }
+            ],
+            "todayStarCount": "288",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/tiangolo/sqlmodel",
+            "username": "tiangolo",
+            "repoName": "sqlmodel",
+            "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+            "language": "Python",
+            "starCount": "6,468",
+            "forkCount": "247",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1326112?s=40&v=4",
+                    "profileUrl": "https://github.com/tiangolo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/11004857?s=40&v=4",
+                    "profileUrl": "https://github.com/Batalex"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/401011?s=40&v=4",
+                    "profileUrl": "https://github.com/egrim"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31937175?s=40&v=4",
+                    "profileUrl": "https://github.com/Lehoczky"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/36774373?s=40&v=4",
+                    "profileUrl": "https://github.com/leynier"
+                }
+            ],
+            "todayStarCount": "294",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/discordjs/discord.js",
+            "username": "discordjs",
+            "repoName": "discord.js",
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "language": "JavaScript",
+            "starCount": "16,848",
+            "forkCount": "3,122",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10330923?s=40&v=4",
+                    "profileUrl": "https://github.com/amishshah"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/279900?s=40&v=4",
+                    "profileUrl": "https://github.com/Gawdl3y"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/24881032?s=40&v=4",
+                    "profileUrl": "https://github.com/SpaceEEC"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/20760160?s=40&v=4",
+                    "profileUrl": "https://github.com/iCrawl"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5952481?s=40&v=4",
+                    "profileUrl": "https://github.com/devsnek"
+                }
+            ],
+            "todayStarCount": "132",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/prisma/prisma",
+            "username": "prisma",
+            "repoName": "prisma",
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+            "language": "TypeScript",
+            "starCount": "19,164",
+            "forkCount": "677",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1094804?s=40&v=4",
+                    "profileUrl": "https://github.com/timsuchanek"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1328733?s=40&v=4",
+                    "profileUrl": "https://github.com/Jolg42"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/52275815?s=40&v=4",
+                    "profileUrl": "https://github.com/prisma-bot"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4058327?s=40&v=4",
+                    "profileUrl": "https://github.com/nikolasburk"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/renovate"
+                }
+            ],
+            "todayStarCount": "608",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/dtm-labs/dtm",
+            "username": "dtm-labs",
+            "repoName": "dtm",
+            "description": "🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器",
+            "language": "Go",
+            "starCount": "4,356",
+            "forkCount": "444",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/43027375?s=40&v=4",
+                    "profileUrl": "https://github.com/yedf2"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/34903552?s=40&v=4",
+                    "profileUrl": "https://github.com/li-xiao-shuang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6871552?s=40&v=4",
+                    "profileUrl": "https://github.com/lsytj0413"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/439390?s=40&v=4",
+                    "profileUrl": "https://github.com/geffzhang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/36129334?s=40&v=4",
+                    "profileUrl": "https://github.com/wuqinqiang"
+                }
+            ],
+            "todayStarCount": "156",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/zeromicro/go-zero",
+            "username": "zeromicro",
+            "repoName": "go-zero",
+            "description": "go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.",
+            "language": "Go",
+            "starCount": "13,588",
+            "forkCount": "1,681",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1918356?s=40&v=4",
+                    "profileUrl": "https://github.com/kevwan"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2328454?s=40&v=4",
+                    "profileUrl": "https://github.com/kingxt"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10302073?s=40&v=4",
+                    "profileUrl": "https://github.com/anqiansong"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/20548053?s=40&v=4",
+                    "profileUrl": "https://github.com/chenquan"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/18564615?s=40&v=4",
+                    "profileUrl": "https://github.com/StevenZack"
+                }
+            ],
+            "todayStarCount": "349",
+            "dateRange": "weekly"
+        },
+        {
+            "repoLink": "https://github.com/TencentARC/GFPGAN",
+            "username": "TencentARC",
+            "repoName": "GFPGAN",
+            "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+            "language": "Python",
+            "starCount": "15,091",
+            "forkCount": "2,213",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17445847?s=40&v=4",
+                    "profileUrl": "https://github.com/xinntao"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/81195143?s=40&v=4",
+                    "profileUrl": "https://github.com/AK391"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/18028233?s=40&v=4",
+                    "profileUrl": "https://github.com/bramton"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/36897236?s=40&v=4",
+                    "profileUrl": "https://github.com/DarbazAli"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17243165?s=40&v=4",
+                    "profileUrl": "https://github.com/Wscats"
+                }
+            ],
+            "todayStarCount": "11371",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/Eugeny/tabby",
+            "username": "Eugeny",
+            "repoName": "tabby",
+            "description": "A terminal for a more modern age",
+            "language": "TypeScript",
+            "starCount": "27,325",
+            "forkCount": "1,587",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/161476?s=40&v=4",
+                    "profileUrl": "https://github.com/Eugeny"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot-preview"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/23186?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/allcontributors"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/903197?s=40&v=4",
+                    "profileUrl": "https://github.com/Domain"
+                }
+            ],
+            "todayStarCount": "7329",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/ssssssss-team/spider-flow",
+            "username": "ssssssss-team",
+            "repoName": "spider-flow",
+            "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+            "language": "Java",
+            "starCount": "4,556",
+            "forkCount": "780",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/53387007?s=40&v=4",
+                    "profileUrl": "https://github.com/javamxd"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13660311?s=40&v=4",
+                    "profileUrl": "https://github.com/lvjinze"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/23092029?s=40&v=4",
+                    "profileUrl": "https://github.com/jy03638110"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/34805743?s=40&v=4",
+                    "profileUrl": "https://github.com/zhoutianwang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/42330488?s=40&v=4",
+                    "profileUrl": "https://github.com/BillDowney"
+                }
+            ],
+            "todayStarCount": "2624",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/mpcabete/bombcrypto-bot",
+            "username": "mpcabete",
+            "repoName": "bombcrypto-bot",
+            "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+            "language": "Python",
+            "starCount": "613",
+            "forkCount": "359",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/69962256?s=40&v=4",
+                    "profileUrl": "https://github.com/mpcabete"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/19374522?s=40&v=4",
+                    "profileUrl": "https://github.com/Nucito"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/15673929?s=40&v=4",
+                    "profileUrl": "https://github.com/filipecavalc"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/38818343?s=40&v=4",
+                    "profileUrl": "https://github.com/cristhianbreunig"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/51174183?s=40&v=4",
+                    "profileUrl": "https://github.com/joaovictor7"
+                }
+            ],
+            "todayStarCount": "488",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/zeldaret/oot",
+            "username": "zeldaret",
+            "repoName": "oot",
+            "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
+            "language": "C",
+            "starCount": "3,165",
+            "forkCount": "384",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/32455037?s=40&v=4",
+                    "profileUrl": "https://github.com/Roman971"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/22045047?s=40&v=4",
+                    "profileUrl": "https://github.com/fig02"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2985314?s=40&v=4",
+                    "profileUrl": "https://github.com/ethteck"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/69443847?s=40&v=4",
+                    "profileUrl": "https://github.com/petrie911"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/49287729?s=40&v=4",
+                    "profileUrl": "https://github.com/shawlucas"
+                }
+            ],
+            "todayStarCount": "1829",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/kamranahmedse/developer-roadmap",
+            "username": "kamranahmedse",
+            "repoName": "developer-roadmap",
+            "description": "Roadmap to becoming a developer in 2021",
+            "language": "TypeScript",
+            "starCount": "181,943",
+            "forkCount": "26,145",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4921183?s=40&v=4",
+                    "profileUrl": "https://github.com/kamranahmedse"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/20262255?s=40&v=4",
+                    "profileUrl": "https://github.com/jaamaal95"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6150471?s=40&v=4",
+                    "profileUrl": "https://github.com/eihabkhan"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/86719026?s=40&v=4",
+                    "profileUrl": "https://github.com/sehajanand"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4408379?s=40&v=4",
+                    "profileUrl": "https://github.com/lex111"
+                }
+            ],
+            "todayStarCount": "5103",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/marktext/marktext",
+            "username": "marktext",
+            "repoName": "marktext",
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+            "language": "JavaScript",
+            "starCount": "25,397",
+            "forkCount": "1,795",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9712830?s=40&v=4",
+                    "profileUrl": "https://github.com/Jocs"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/22716132?s=40&v=4",
+                    "profileUrl": "https://github.com/fxha"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17591936?s=40&v=4",
+                    "profileUrl": "https://github.com/notAlaanor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3466287?s=40&v=4",
+                    "profileUrl": "https://github.com/mdogadailo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/56189047?s=40&v=4",
+                    "profileUrl": "https://github.com/jazzfool"
+                }
+            ],
+            "todayStarCount": "4877",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+            "username": "QianMo",
+            "repoName": "Real-Time-Rendering-4th-Bibliography-Collection",
+            "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+            "language": "HTML",
+            "starCount": "2,149",
+            "forkCount": "662",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7830161?s=40&v=4",
+                    "profileUrl": "https://github.com/QianMo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4819261?s=40&v=4",
+                    "profileUrl": "https://github.com/zh4os"
+                }
+            ],
+            "todayStarCount": "1277",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/PaperMC/Paper",
+            "username": "PaperMC",
+            "repoName": "Paper",
+            "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+            "language": "Java",
+            "starCount": "5,397",
+            "forkCount": "1,367",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/58008?s=40&v=4",
+                    "profileUrl": "https://github.com/aikar"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1007849?s=40&v=4",
+                    "profileUrl": "https://github.com/md-5"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1254957?s=40&v=4",
+                    "profileUrl": "https://github.com/zachbr"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1228900?s=40&v=4",
+                    "profileUrl": "https://github.com/electronicboy"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/15055071?s=40&v=4",
+                    "profileUrl": "https://github.com/Machine-Maker"
+                }
+            ],
+            "todayStarCount": "623",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/babysor/MockingBird",
+            "username": "babysor",
+            "repoName": "MockingBird",
+            "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+            "language": "JavaScript",
+            "starCount": "17,060",
+            "forkCount": "2,134",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7423248?s=40&v=4",
+                    "profileUrl": "https://github.com/babysor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/12797292?s=40&v=4",
+                    "profileUrl": "https://github.com/oceanarium"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17819608?s=40&v=4",
+                    "profileUrl": "https://github.com/hertz-pj"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31311826?s=40&v=4",
+                    "profileUrl": "https://github.com/Nthily"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/55180847?s=40&v=4",
+                    "profileUrl": "https://github.com/XiuChen-Liu"
+                }
+            ],
+            "todayStarCount": "4388",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+            "username": "PKUanonym",
+            "repoName": "REKCARC-TSC-UHT",
+            "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+            "language": "HTML",
+            "starCount": "20,954",
+            "forkCount": "5,715",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8189182?s=40&v=4",
+                    "profileUrl": "https://github.com/Trinkle23897"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/49298122?s=40&v=4",
+                    "profileUrl": "https://github.com/PKUanonym"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/17642707?s=40&v=4",
+                    "profileUrl": "https://github.com/Co1lin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/48819781?s=40&v=4",
+                    "profileUrl": "https://github.com/lwpie"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/20871883?s=40&v=4",
+                    "profileUrl": "https://github.com/c7w"
+                }
+            ],
+            "todayStarCount": "1843",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/JetBrains/compose-jb",
+            "username": "JetBrains",
+            "repoName": "compose-jb",
+            "description": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+            "language": "Kotlin",
+            "starCount": "7,785",
+            "forkCount": "468",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5963351?s=40&v=4",
+                    "profileUrl": "https://github.com/igordmn"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/25667761?s=40&v=4",
+                    "profileUrl": "https://github.com/Schahen"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2600522?s=40&v=4",
+                    "profileUrl": "https://github.com/olonho"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/654232?s=40&v=4",
+                    "profileUrl": "https://github.com/AlexeyTsvetkov"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7372778?s=40&v=4",
+                    "profileUrl": "https://github.com/eymar"
+                }
+            ],
+            "todayStarCount": "952",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/appsmithorg/appsmith",
+            "username": "appsmithorg",
+            "repoName": "appsmith",
+            "description": "Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.",
+            "language": "TypeScript",
+            "starCount": "10,916",
+            "forkCount": "961",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3897254?s=40&v=4",
+                    "profileUrl": "https://github.com/Nikhil-Nandagopal"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/458946?s=40&v=4",
+                    "profileUrl": "https://github.com/mohanarpit"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/12022471?s=40&v=4",
+                    "profileUrl": "https://github.com/hetunandu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8403079?s=40&v=4",
+                    "profileUrl": "https://github.com/trishaanand"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/120119?s=40&v=4",
+                    "profileUrl": "https://github.com/sharat87"
+                }
+            ],
+            "todayStarCount": "2488",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/Anarios/return-youtube-dislike",
+            "username": "Anarios",
+            "repoName": "return-youtube-dislike",
+            "description": "Chrome extension to return youtube dislikes",
+            "language": "JavaScript",
+            "starCount": "6,745",
+            "forkCount": "266",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3018711?s=40&v=4",
+                    "profileUrl": "https://github.com/Anarios"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/31113245?s=40&v=4",
+                    "profileUrl": "https://github.com/PickleNik"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/27463495?s=40&v=4",
+                    "profileUrl": "https://github.com/Frontesque"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/69623818?s=40&v=4",
+                    "profileUrl": "https://github.com/DARKDRAGON532"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/34778006?s=40&v=4",
+                    "profileUrl": "https://github.com/KalinkaGit"
+                }
+            ],
+            "todayStarCount": "4824",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/elastic/elasticsearch",
+            "username": "elastic",
+            "repoName": "elasticsearch",
+            "description": "Free and Open, Distributed, RESTful Search Engine",
+            "language": "Java",
+            "starCount": "57,964",
+            "forkCount": "21,069",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
+                    "profileUrl": "https://github.com/kimchy"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/973334?s=40&v=4",
+                    "profileUrl": "https://github.com/s1monw"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/580421?s=40&v=4",
+                    "profileUrl": "https://github.com/martijnvg"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4744941?s=40&v=4",
+                    "profileUrl": "https://github.com/jasontedor"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/289412?s=40&v=4",
+                    "profileUrl": "https://github.com/rjernst"
+                }
+            ],
+            "todayStarCount": "642",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/AleoHQ/snarkOS",
+            "username": "AleoHQ",
+            "repoName": "snarkOS",
+            "description": "A Decentralized Operating System for Zero-Knowledge Applications",
+            "language": "Rust",
+            "starCount": "801",
+            "forkCount": "140",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9260812?s=40&v=4",
+                    "profileUrl": "https://github.com/howardwu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/14917648?s=40&v=4",
+                    "profileUrl": "https://github.com/raychu86"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3750347?s=40&v=4",
+                    "profileUrl": "https://github.com/ljedrz"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13221615?s=40&v=4",
+                    "profileUrl": "https://github.com/niklaslong"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8600837?s=40&v=4",
+                    "profileUrl": "https://github.com/Protryon"
+                }
+            ],
+            "todayStarCount": "493",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/youngyangyang04/leetcode-master",
+            "username": "youngyangyang04",
+            "repoName": "leetcode-master",
+            "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+            "language": "",
+            "starCount": "5,268",
+            "forkCount": "",
+            "users": [],
+            "todayStarCount": "",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/oxidecomputer/hubris",
+            "username": "oxidecomputer",
+            "repoName": "hubris",
+            "description": "A lightweight, memory-protected, message-passing kernel for deeply embedded systems.",
+            "language": "Rust",
+            "starCount": "1,561",
+            "forkCount": "60",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/45247?s=40&v=4",
+                    "profileUrl": "https://github.com/cbiffle"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/27786?s=40&v=4",
+                    "profileUrl": "https://github.com/steveklabnik"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/9454487?s=40&v=4",
+                    "profileUrl": "https://github.com/kc8apf"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/328614?s=40&v=4",
+                    "profileUrl": "https://github.com/bcantrill"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3258857?s=40&v=4",
+                    "profileUrl": "https://github.com/smklein"
+                }
+            ],
+            "todayStarCount": "1567",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/FerretDB/FerretDB",
+            "username": "FerretDB",
+            "repoName": "FerretDB",
+            "description": "A truly Open Source MongoDB alternative",
+            "language": "Go",
+            "starCount": "3,863",
+            "forkCount": "110",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/11512?s=40&v=4",
+                    "profileUrl": "https://github.com/AlekSi"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/234891?s=40&v=4",
+                    "profileUrl": "https://github.com/ekalinin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6011473?s=40&v=4",
+                    "profileUrl": "https://github.com/OpenSauce"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2151163?s=40&v=4",
+                    "profileUrl": "https://github.com/pboros"
+                }
+            ],
+            "todayStarCount": "1595",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/aws/karpenter",
+            "username": "aws",
+            "repoName": "karpenter",
+            "description": "Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",
+            "language": "Go",
+            "starCount": "2,138",
+            "forkCount": "142",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/2585992?s=40&v=4",
+                    "profileUrl": "https://github.com/ellistarn"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/3503707?s=40&v=4",
+                    "profileUrl": "https://github.com/bwagner5"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/10810510?s=40&v=4",
+                    "profileUrl": "https://github.com/njtran"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5033759?s=40&v=4",
+                    "profileUrl": "https://github.com/prateekgogia"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5782953?s=40&v=4",
+                    "profileUrl": "https://github.com/geoffcline"
+                }
+            ],
+            "todayStarCount": "1263",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/flame-engine/flame",
+            "username": "flame-engine",
+            "repoName": "flame",
+            "description": "A minimalist Flutter game engine",
+            "language": "Dart",
+            "starCount": "5,655",
+            "forkCount": "481",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/835641?s=40&v=4",
+                    "profileUrl": "https://github.com/erickzanardo"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/744771?s=40&v=4",
+                    "profileUrl": "https://github.com/spydon"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/882703?s=40&v=4",
+                    "profileUrl": "https://github.com/luanpotter"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/455623?s=40&v=4",
+                    "profileUrl": "https://github.com/feroult"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4231472?s=40&v=4",
+                    "profileUrl": "https://github.com/st-pasha"
+                }
+            ],
+            "todayStarCount": "696",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/Vonng/ddia",
+            "username": "Vonng",
+            "repoName": "ddia",
+            "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+            "language": "Python",
+            "starCount": "11,299",
+            "forkCount": "2,520",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8587410?s=40&v=4",
+                    "profileUrl": "https://github.com/Vonng"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1246410?s=40&v=4",
+                    "profileUrl": "https://github.com/yingang"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8588251?s=40&v=4",
+                    "profileUrl": "https://github.com/fuxuemingzhu"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4820492?s=40&v=4",
+                    "profileUrl": "https://github.com/afunTW"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/13568607?s=40&v=4",
+                    "profileUrl": "https://github.com/jiajiadebug"
+                }
+            ],
+            "todayStarCount": "1160",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/flutter/flutter",
+            "username": "flutter",
+            "repoName": "flutter",
+            "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+            "language": "Dart",
+            "starCount": "133,744",
+            "forkCount": "20,001",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+                    "profileUrl": "https://github.com/engine-flutter-autoroll"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/112007?s=40&v=4",
+                    "profileUrl": "https://github.com/abarth"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/551196?s=40&v=4",
+                    "profileUrl": "https://github.com/Hixie"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8975114?s=40&v=4",
+                    "profileUrl": "https://github.com/jonahwilliams"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1377460?s=40&v=4",
+                    "profileUrl": "https://github.com/HansMuller"
+                }
+            ],
+            "todayStarCount": "1409",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/tailwindlabs/tailwindcss",
+            "username": "tailwindlabs",
+            "repoName": "tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "language": "JavaScript",
+            "starCount": "51,563",
+            "forkCount": "2,469",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
+                    "profileUrl": "https://github.com/adamwathan"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/dependabot-preview"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/882133?s=40&v=4",
+                    "profileUrl": "https://github.com/reinink"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/1834413?s=40&v=4",
+                    "profileUrl": "https://github.com/RobinMalfait"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/in/715?s=40&v=4",
+                    "profileUrl": "https://github.com/apps/depfu"
+                }
+            ],
+            "todayStarCount": "2212",
+            "dateRange": "monthly"
+        },
+        {
+            "repoLink": "https://github.com/donnemartin/system-design-primer",
+            "username": "donnemartin",
+            "repoName": "system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "language": "Python",
+            "starCount": "156,584",
+            "forkCount": "28,911",
+            "users": [
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
+                    "profileUrl": "https://github.com/donnemartin"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/171818?s=40&v=4",
+                    "profileUrl": "https://github.com/satob"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/7440735?s=40&v=4",
+                    "profileUrl": "https://github.com/fluency03"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/8622362?s=40&v=4",
+                    "profileUrl": "https://github.com/sqrthree"
+                },
+                {
+                    "imgSrc": "https://avatars.githubusercontent.com/u/6084440?s=40&v=4",
+                    "profileUrl": "https://github.com/antongulikov"
+                }
+            ],
+            "todayStarCount": "5235",
+            "dateRange": "monthly"
+        }
+    ]
+}

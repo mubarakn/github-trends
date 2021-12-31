@@ -1,5 +1,5 @@
 import { useLocation, Link } from 'react-router-dom'
-import LinkButtonLocation from '../enums/LinkButtonLocation'
+import {LinkButtonLocation} from '../app.d'
 
 const LinkButton = ({ location, path, title }: { location: LinkButtonLocation, path: string, title: string }) => {
     const urlLocation = useLocation()
